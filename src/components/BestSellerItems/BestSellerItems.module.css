@@ -1,0 +1,17 @@
+.main__content{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+
+}
+.main__title{
+    font-family: 'Federo', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color:  rgba(58, 58, 58, 1);
+
+    text-align: center;
+}
